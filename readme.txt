@@ -15,6 +15,7 @@ UBID final project/
 └── Code/
     ├── run.sh
     ├── code.ipynb
+    ├── Plant Disease dataset
     └── Disease classification app/
         ├── app.py
         ├── class_indices.json
