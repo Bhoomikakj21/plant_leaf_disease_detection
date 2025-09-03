@@ -4,26 +4,6 @@ Project Summary:
 This project implements a deep learning-based system to detect plant leaf diseases from images. 
 Use an ensemble of three CNN models: Xception, DenseNet121, and DeepPlantNet.
 
-Folder Structure:
-UBID final project/
-├── requirements.txt
-├── readme.txt
-├── Report/
-│   └── UBID final report.pdf
-├── Video/
-│   └── video.mp4
-└── Code/
-    ├── run.sh
-    ├── code.ipynb
-    ├── Plant Disease dataset
-    └── Disease classification app/
-        ├── app.py
-        ├── class_indices.json
-        └── trained_model/
-            ├── xception_model.h5
-            ├── densenet_model.h5
-            └── deepplantnet_model.h5
-
 External Downloads:
 - Dataset: https://drive.google.com/file/d/1rki2yvN17l423dcNZVxSy3e3IES5oJp9/view?usp=sharing
     → Extract into: Code/Plant Disease dataset/
