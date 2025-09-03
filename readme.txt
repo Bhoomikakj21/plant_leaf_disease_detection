@@ -1,4 +1,4 @@
-UBID Final Project - Plant Leaf Disease Detection Using Deep Learning
+Plant Leaf Disease Detection Using Deep Learning
 
 Project Summary:
 This project implements a deep learning-based system to detect plant leaf diseases from images. 
